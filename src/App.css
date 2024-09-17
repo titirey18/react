@@ -1,13 +1,13 @@
 button {
   font-size: 25px;
   border-radius: 10px;
-  background-color: rgb(10, 236, 40);
+  background-color: rgb(5, 245, 37);
   border: 2px solid black;
   cursor: pointer;
 }
 
 button.restar {
-  background-color: rgb(241, 6, 6);
+  background-color: rgb(255, 3, 3);
 }
 
 .app {
